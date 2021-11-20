@@ -1,0 +1,25 @@
+body{
+    padding: 50px 100px;
+    background-color:rgb(0, 207, 243);
+}
+h1{
+    text-align:center;
+    background-color:rgb(196, 225, 250);
+    color:rgb(150, 127, 255);
+    padding:10px;
+    margin:0px;
+}
+#textbox{
+    width:99.6%;
+    font-size:18px;
+}
+
+p{
+    text-align:center;
+    font-size:26px;
+    font-weight:bold;
+    background-color:rgb(196, 225, 250);
+    color:rgb(150, 127, 255);
+    padding:10px;
+    margin:0px;
+}
